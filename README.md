@@ -1,9 +1,10 @@
 # Where to build Futsal Field in Seoul?
-
+## !! Map is not available now !!
 ## Overview
 - This is a **Data Visualization** project that overlaps various data on the map of Seoul using **Folium**, a mapping library of Python.  
 - I thought I could find the best place to build a futsal field and figure out the intersection between various data by overlaping data on the map.
 - I used **streamlit** to create a demo app that can easily visualize and display data.
+
   
 ## What is Futsal?
 **Futsal** is a fast-paced indoor sport that is similar to soccer but played on a smaller, hard court.   
@@ -49,15 +50,18 @@ The reason we chose Wednesday data is that it falls in the middle of the workwee
 </table>
 
 ## How to run
-! IT WAS CREATED IN A WINDOWS ENVIRONMENT !  
-! IF YOU DON'T HAVE STREAMIT, YOU NEED TO INSTALL IT FIRST !
+1. Go to the directory that you want to start
+  - `cd path/you/want`
 
-1. Download codes or clone the repository.
-2. Move the downloaded code to the directory where streamlit is installed.
-3. Enter the following command in terminal:
-```
-streamlit run main.py
-```
+2. Download codes or clone the repository.
+  - `git clone https://github.com/miniwa00/Where-to-build-Futsal-Field.git`
+
+3. Download the necessary packages.
+  - `pip install -r requirements.txt`
+
+4. Enter the following command in terminal:
+  - `streamlit run main.py`
+
 4. Explore it!
 
 ## Features
@@ -80,5 +84,3 @@ and you can see the average population in the selected time zone in the second o
 - The very last barplot Displays the population of the selected region in numbers.
 
 - A button on the top-right of the map is 'layer button' which can control what to display on the map.
-
-test
