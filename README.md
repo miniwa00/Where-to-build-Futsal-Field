@@ -49,7 +49,7 @@ The reason we chose Wednesday data is that it falls in the middle of the workwee
 </tbody>
 </table>
 
-## How to run
+## How to run?
 1. Go to the directory that you want to start
   - `cd path/you/want`
 
