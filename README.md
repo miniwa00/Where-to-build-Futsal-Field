@@ -67,6 +67,9 @@ The reason we chose Wednesday data is that it falls in the middle of the workwee
 ## Features
 <img src="https://github.com/miniwa00/Where-to-build-Futsal-Field/assets/47784464/6d675c77-d2d0-404b-a2e6-6b1820412d7d" width=500, height=450/>      
 
+<br>
+<br>
+
 - you can see the **'서을 생활인구 데이터(누적)'** and **'서울 생활인구 데이터(평균)'**. Both of them is based on 'Seoul Living Population Data'.  
 But if you modify the slide bar of each one, you can see the data at individual times and the accumulation of that data in the first one  
 and you can see the average population in the selected time zone in the second one.
