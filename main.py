@@ -15,7 +15,7 @@ from folium import plugins
 import json
 from branca.colormap import LinearColormap
 
-
+print("Asd")
 # Set Seoul 'dong' json file, map of Seoul
 
 # In the administrative division of South Korea, a "동" (dong) refers to a unit that is smaller than "읍" (eup) and "면" (myeon),
